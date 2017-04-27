@@ -1,3 +1,2 @@
-# UCA
+# TW
 
-Códigos desarrollados durante la ejecución del Grado en Ingeniería Informática
